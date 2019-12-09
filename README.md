@@ -1,2 +1,2 @@
-# -hat
+# -chat
 Чат на React
